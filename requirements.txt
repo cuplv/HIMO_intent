@@ -1,0 +1,15 @@
+numpy
+skunk
+matplotlib
+scipy
+toytree
+toyplot
+networkx
+pandas
+ipython-autotime
+jupyter_contrib_nbextensions
+ipywidgets
+nbconvert
+cvxopt
+spot
+graph-tool
