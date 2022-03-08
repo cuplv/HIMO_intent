@@ -1,6 +1,5 @@
 FROM civisanalytics/datascience-python
 
-COPY environment.yaml /
 COPY requirements.txt /
 
 RUN apt update --fix-missing
