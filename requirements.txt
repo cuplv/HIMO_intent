@@ -1,6 +1,6 @@
 numpy
 skunk
-matplotlib
+matplotlib==3.5.1
 scipy
 toytree
 toyplot
@@ -11,5 +11,5 @@ jupyter_contrib_nbextensions
 ipywidgets
 nbconvert
 cvxopt
-spot
+spot==2.10.4
 graph-tool
